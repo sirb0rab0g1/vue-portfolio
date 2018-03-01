@@ -52,67 +52,67 @@
           myValue: 90,
           color: 'deep-orange darken-2',
           // src: require('@/assets/html5.svg.png')
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/html5.svg.png'
+          src: 'https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png'
         },
         {
           name: 'CSS',
           myValue: 90,
           color: 'light-blue darken-3',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/css3.png'
+          src: 'https://s-media-cache-ak0.pinimg.com/originals/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.png'
         },
         {
           name: 'JavaScript',
           myValue: 90,
           color: 'yellow darken-1',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/javascript.png'
+          src: 'https://codercamps.co/Img/javascript-logo.png'
         },
         {
           name: 'Sass',
           myValue: 85,
           color: 'pink accent-1',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/sass.png'
+          src: 'https://cdn.worldvectorlogo.com/logos/sass-1.svg'
         },
         {
           name: 'Stylus',
           myValue: 90,
           color: 'grey darken-1',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/Stylus.svg.png'
+          src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Stylus.svg/2000px-Stylus.svg.png'
         },
         {
           name: 'AngularJS',
           myValue: 80,
           color: 'red darken-3',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/angular.png'
+          src: 'https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg'
         },
         {
           name: 'VueJS',
           myValue: 90,
           color: 'teal lighten-1',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/vuejs.png'
+          src: 'https://cdn.auth0.com/blog/vuejs/vue-logo.png'
         },
         {
           name: 'PHP',
           myValue: 85,
           color: 'indigo lighten-1',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/php.png'
+          src: 'https://seeklogo.com/images/P/php-logo-ADE513E748-seeklogo.com.png'
         },
         {
           name: 'Django',
           myValue: 60,
           color: 'teal darken-4',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/django.png'
+          src: 'https://gitlab.normandy-genomic-medicine.fr/uploads/-/system/project/avatar/5/django.png'
         },
         {
           name: 'Git',
           myValue: 80,
           color: 'deep-orange darken-2',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/git.png'
+          src: 'http://uxdream.com/assets/img/technologies/git.svg'
         },
         {
           name: 'Docker',
           myValue: 80,
           color: 'light-blue darken-2',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/docker.png'
+          src: 'https://wpcdn.kentik.com/wp-content/uploads/2016/02/Docker_logo-320w.png'
         }
       ]
     })

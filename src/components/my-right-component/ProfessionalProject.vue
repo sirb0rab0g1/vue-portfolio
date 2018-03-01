@@ -49,7 +49,7 @@
         {
           name: 'TrivTrak',
           link: 'http://trivtrak.com/#/',
-          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/trivtrak.png',
+          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884111/vuejs%20portfolio/trivtrak.png',
           role: 'Front End Web Developer',
           languages: [
             {
