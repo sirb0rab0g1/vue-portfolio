@@ -48,7 +48,7 @@
         {
           name: 'Material Admin',
           link: 'http://kentoyfueconcillo.000webhostapp.com/#/',
-          src: require('@/assets/material_admin.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/material_admin.png',
           languages: [
             {
               name: 'Angular 1',
@@ -63,7 +63,7 @@
         {
           name: 'Angular Material Portfolio (old)',
           link: 'https://fueconcillo-old-portfolio.000webhostapp.com/',
-          src: require('@/assets/old_portfolio.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/old_portfolio.png',
           languages: [
             {
               name: 'Angular 1',
@@ -78,7 +78,7 @@
         {
           name: 'Angular Material Portfolio',
           link: 'https://sirb0rab0g1.github.io/angular4-portfolio/',
-          src: require('@/assets/new_portfolio_angular.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/new_portfolio_angular.png',
           languages: [
             {
               name: 'Angular 4',
@@ -97,7 +97,7 @@
         {
           name: 'Angular 4 + Material + Prime Faces',
           link: 'https://sirb0rab0g1.github.io/angularjs4-word-online/',
-          src: require('@/assets/word.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/word.png',
           languages: [
             {
               name: 'Angular 4',
@@ -116,7 +116,7 @@
         {
           name: 'Angular 4 + Firebase Deployment',
           link: 'https://fir-angular-47dce.firebaseapp.com/',
-          src: require('@/assets/angular_firebase.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/angular_firebase.png',
           languages: [
             {
               name: 'Angular 4',
@@ -131,7 +131,7 @@
         {
           name: 'Django on Heroku',
           link: 'https://my-rest-api-postgre.herokuapp.com/info/personal/',
-          src: require('@/assets/django_heroku.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/django_heroku.png',
           languages: [
             {
               name: 'Django',
@@ -142,7 +142,7 @@
         {
           name: 'Angular + Django',
           link: 'https://sirb0rab0g1.github.io/angularjs4-tutorial/#/advance',
-          src: require('@/assets/angular_django.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/angular_django.png',
           languages: [
             {
               name: 'Angular 4',
@@ -161,7 +161,7 @@
         {
           name: 'Vue + Django',
           link: 'https://sirb0rab0g1.github.io/rest-vue/#/',
-          src: require('@/assets/material_vue.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/material_vue.png',
           languages: [
             {
               name: 'Vue 2',
@@ -180,7 +180,7 @@
         {
           name: 'Vue + Docker',
           link: 'https://github.com/sirb0rab0g1/vuetify-docker',
-          src: require('@/assets/vue_docker.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/vue_docker.png',
           languages: [
             {
               name: 'Vue 2',
@@ -199,7 +199,7 @@
         {
           name: 'Django + Docker',
           link: 'https://github.com/sirb0rab0g1/sample-docker-django-rest-api',
-          src: require('@/assets/django_docker.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/django_docker.png',
           languages: [
             {
               name: 'Django',

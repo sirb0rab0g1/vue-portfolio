@@ -51,67 +51,68 @@
           name: 'HTML 5',
           myValue: 90,
           color: 'deep-orange darken-2',
-          src: require('@/assets/html5.svg.png')
+          // src: require('@/assets/html5.svg.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/html5.svg.png'
         },
         {
           name: 'CSS',
           myValue: 90,
           color: 'light-blue darken-3',
-          src: require('@/assets/css3.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/css3.png'
         },
         {
           name: 'JavaScript',
           myValue: 90,
           color: 'yellow darken-1',
-          src: require('@/assets/javascript.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/javascript.png'
         },
         {
           name: 'Sass',
           myValue: 85,
           color: 'pink accent-1',
-          src: require('@/assets/sass.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/sass.png'
         },
         {
           name: 'Stylus',
           myValue: 90,
           color: 'grey darken-1',
-          src: require('@/assets/stylus.svg.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/Stylus.svg.png'
         },
         {
           name: 'AngularJS',
           myValue: 80,
           color: 'red darken-3',
-          src: require('@/assets/angular.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/angular.png'
         },
         {
           name: 'VueJS',
           myValue: 90,
           color: 'teal lighten-1',
-          src: require('@/assets/vuejs.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/vuejs.png'
         },
         {
           name: 'PHP',
           myValue: 85,
           color: 'indigo lighten-1',
-          src: require('@/assets/php.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/php.png'
         },
         {
           name: 'Django',
           myValue: 60,
           color: 'teal darken-4',
-          src: require('@/assets/django.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/django.png'
         },
         {
           name: 'Git',
           myValue: 80,
           color: 'deep-orange darken-2',
-          src: require('@/assets/git.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/git.png'
         },
         {
           name: 'Docker',
           myValue: 80,
           color: 'light-blue darken-2',
-          src: require('@/assets/docker.png')
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/docker.png'
         }
       ]
     })

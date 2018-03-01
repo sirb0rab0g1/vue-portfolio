@@ -49,7 +49,7 @@
         {
           name: 'TrivTrak',
           link: 'http://trivtrak.com/#/',
-          src: require('@/assets/trivtrak.png'),
+          src: 'https://github.com/sirb0rab0g1/vue-portfolio/blob/master/src/assets/trivtrak.png',
           role: 'Front End Web Developer',
           languages: [
             {

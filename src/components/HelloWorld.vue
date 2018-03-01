@@ -10,7 +10,7 @@
 	    	<professional-project></professional-project>
 	    	<self-project></self-project>
 	    	<mentors></mentors>
-	    	<rocket-card></rocket-card>
+	    	<!-- <rocket-card></rocket-card> -->
 	    </v-flex>
 	    <particles></particles>
 	    <surface-shader></surface-shader>
