@@ -52,7 +52,7 @@
           myValue: 90,
           color: 'deep-orange darken-2',
           // src: require('@/assets/html5.svg.png')
-          src: 'https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/184/landscape/html5.png'
+          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884103/vuejs%20portfolio/html5.svg.png'
         },
         {
           name: 'CSS',
