@@ -48,7 +48,7 @@
         {
           name: 'Material Admin',
           link: 'http://kentoyfueconcillo.000webhostapp.com/#/',
-          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884104/vuejs%20portfolio/material_admin.png',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1520481120/portfolio/material_admin.png',
           languages: [
             {
               name: 'Angular 1',
@@ -63,7 +63,7 @@
         {
           name: 'Angular Material Portfolio (old)',
           link: 'https://fueconcillo-old-portfolio.000webhostapp.com/',
-          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884106/vuejs%20portfolio/old_portfolio.png',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1519884106/portfolio/old_portfolio.png',
           languages: [
             {
               name: 'Angular 1',
@@ -78,7 +78,7 @@
         {
           name: 'Angular Material Portfolio',
           link: 'https://sirb0rab0g1.github.io/angular4-portfolio/',
-          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884107/vuejs%20portfolio/new_portfolio_angular.png',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1519884107/portfolio/new_portfolio_angular.png',
           languages: [
             {
               name: 'Angular 4',
@@ -97,7 +97,7 @@
         {
           name: 'Angular 4 + Material + Prime Faces',
           link: 'https://sirb0rab0g1.github.io/angularjs4-word-online/',
-          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884108/vuejs%20portfolio/word.png',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1519884108/portfolio/word.png',
           languages: [
             {
               name: 'Angular 4',
@@ -116,7 +116,7 @@
         {
           name: 'Angular 4 + Firebase Deployment',
           link: 'https://fir-angular-47dce.firebaseapp.com/',
-          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884102/vuejs%20portfolio/angular_firebase.png',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1519884102/portfolio/angular_firebase.png',
           languages: [
             {
               name: 'Angular 4',
@@ -131,7 +131,7 @@
         {
           name: 'Django on Heroku',
           link: 'https://my-rest-api-postgre.herokuapp.com/info/personal/',
-          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884103/vuejs%20portfolio/django_heroku.png',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1519884103/portfolio/django_heroku.png',
           languages: [
             {
               name: 'Django',
@@ -142,7 +142,7 @@
         {
           name: 'Angular + Django',
           link: 'https://sirb0rab0g1.github.io/angularjs4-tutorial/#/advance',
-          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884103/vuejs%20portfolio/angular_django.png',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1519884103/portfolio/angular_django.png',
           languages: [
             {
               name: 'Angular 4',
@@ -161,7 +161,7 @@
         {
           name: 'Vue + Django',
           link: 'https://sirb0rab0g1.github.io/rest-vue/#/',
-          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884104/vuejs%20portfolio/material_vue.png',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1519884104/portfolio/material_vue.png',
           languages: [
             {
               name: 'Vue 2',
@@ -180,7 +180,7 @@
         {
           name: 'Vue + Docker',
           link: 'https://github.com/sirb0rab0g1/vuetify-docker',
-          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884108/vuejs%20portfolio/vue_docker.png',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1519884108/portfolio/vue_docker.png',
           languages: [
             {
               name: 'Vue 2',
@@ -199,7 +199,7 @@
         {
           name: 'Django + Docker',
           link: 'https://github.com/sirb0rab0g1/sample-docker-django-rest-api',
-          src: 'http://res.cloudinary.com/infosoft/image/upload/q_100/v1519884104/vuejs%20portfolio/django_docker.png',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1519884104/portfolio/django_docker.png',
           languages: [
             {
               name: 'Django',
@@ -208,6 +208,21 @@
             {
               name: 'Docker',
               color: 'light-blue darken-2'
+            }
+          ]
+        },
+        {
+          name: 'Django on AWS',
+          link: 'http://django-env.vugaspqnv3.us-east-1.elasticbeanstalk.com/',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1520481271/django_aws.png',
+          languages: [
+            {
+              name: 'Django',
+              color: 'teal darken-4'
+            },
+            {
+              name: 'AWS',
+              color: 'yellow darken-2'
             }
           ]
         }
