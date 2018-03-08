@@ -58,6 +58,10 @@
             {
               name: 'Django',
               color: 'teal darken-4'
+            },
+            {
+              name: 'Docker',
+              color: 'light-blue darken-2'
             }
           ]
         },
