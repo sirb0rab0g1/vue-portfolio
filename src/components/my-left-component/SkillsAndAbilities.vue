@@ -100,7 +100,7 @@
           name: 'Django',
           myValue: 60,
           color: 'teal darken-4',
-          src: 'https://gitlab.normandy-genomic-medicine.fr/uploads/-/system/project/avatar/5/django.png'
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/q_100/v1520481118/portfolio/django.png'
         },
         {
           name: 'Git',
