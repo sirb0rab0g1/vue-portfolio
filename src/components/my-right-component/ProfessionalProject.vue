@@ -1,5 +1,14 @@
 <template>
   <v-layout row wrap class="bypass-particle">
+    <v-flex lg12>
+      <v-card dark class="card-margin card-opacity">
+        <v-alert outline color="success" :value="true">
+          <small>
+            PROFESSIONAL PROJECT/S
+          </small>
+        </v-alert>
+      </v-card>
+    </v-flex>
     <v-flex xs12 md6 lg6 v-for="(item, index) in professional_project" :keys="index">
       <a class="href" :href="item.link" target="_blank">
         <v-card dark class="card-margin card-opacity">
