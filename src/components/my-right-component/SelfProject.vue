@@ -225,6 +225,21 @@
               color: 'yellow darken-2'
             }
           ]
+        },
+        {
+          name: 'VueJS on AWS',
+          link: 'http://vue-on-aws-s3.s3-website-us-east-1.amazonaws.com/#/',
+          src: 'http://res.cloudinary.com/dprcqjbst/image/upload/v1520818312/vue%20on%20aws.png',
+          languages: [
+            {
+              name: 'Vue 2',
+              color: 'teal lighten-1'
+            },
+            {
+              name: 'AWS',
+              color: 'yellow darken-2'
+            }
+          ]
         }
       ]
     })
